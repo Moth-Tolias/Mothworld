@@ -1,0 +1,54 @@
+
+water
+lava
+
+door
+fence / wall
+planks
+
+glass
+glass pane
+
+//trees
+Cherry //large cherries, a node with a small chance to generate, drop when a player is underneath and do silly amounts of damage
+Blood Oak
+Pine //
+Willow
+Featherwood
+
+//investigate
+witch elm (Ulmus glabra, the wych elm, Scotch elm or Scots elm,)
+Crab Apple (Malus sylvestris,)
+strawberry tree (Arbutus unedo)
+dogwood (Cornus sanguinea, the common dogwood or bloody dogwood)
+horse chestnut/sweet chestnut
+field elm (Ulmus minor) cultivar 'Atinia' ,[1] commonly known as the English elm,
+juniperus communis, the common juniper,
+Buxus sempervirens, the common box, European box, or boxwood
+Acer pseudoplatanus, known as the sycamore in the United Kingdom
+Alnus glutinosa, the common alder, black alder, European alder or just alder
+Carpinus betulus, commonly known as the European or common hornbeam
+Tilia ... commonly called lime trees, or lime bushes
+Pyrus communis, known as the European pear or common pear
+Quercus ilex, the evergreen oak,[1] holly oak[2] or holm oak
+Prunus cerasifera is a species of plum known by the common names cherry plum and myrobalan plum
+Pinus contorta, with the common names lodgepole pine and shore pine, and also known as twisted pine,[2] and contorta pine
+enchanter's nightshade
+he Ericaceae are a family of flowering plants, commonly known as the heath or heather family
+Tsuga heterophylla, the western hemlock[2] or western hemlock-spruce
+elder, elderberry, black elder, European elder, European elderberry, and European black elderberry
+Salix cinerea (common sallow, gray sallow, gray willow, grey sallow, grey willow, grey-leaved sallow, large gray willow, pussy willow, rusty sallow
+
+//interactable nodes?
+Crate //main chest analogue
+Soul Anchor
+Composter
+Furnace / blast furnace / smoker
+Campfire
+Shelf
+Bed
+
+///
+hydroponics = oil->diesel?
+pipes + circuits
+

@@ -1,0 +1,31 @@
+Stone
+cobble
+basalt
+sandstone
+
+marble
+chalk
+slate
+flint
+granite
+coal
+clay
+silt
+sand
+white sand
+red sand
+black sand
+
+salt
+
+obsidian
+
+"hematite, orpiment, and verdigris"
+Lime?
+
+pyrite [fool's gold]
+pearl
+amber
+
+soil
+peat

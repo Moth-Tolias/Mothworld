@@ -1,0 +1,34 @@
+
+//easy
+copper - circuits?
+gold - advanced circuits?
+silver - ??
+iron - hard stuff
+tin - solder
+lead?
+mercury?
+
+//complex
+
+uranium
+Titanium
+cobalt
+
+nickel
+zinc
+Arsenic?
+tungsten
+iridium?
+Platinum?
+
+Bismuth
+Aluminium?
+silicon
+Calcium?
+sodium?
+Magnesium?
+thorium?
+Beryllium?
+Iodine?
+
+
